@@ -1,5 +1,5 @@
 # DSALO-IMPLEMENTATIONS
-CPP implementation of various data structures and algorithms
+My CPP implementations of various data structures and algorithms - part of DSA and Advanced DSA courses taken in my college
 - STACK
 - QUEUE
 - LINKED LIST
